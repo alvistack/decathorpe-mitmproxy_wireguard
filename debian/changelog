@@ -1,0 +1,5 @@
+python-mitmproxy-wireguard (100:0.1.17-1) UNRELEASED; urgency=medium
+
+  * https://github.com/decathorpe/mitmproxy_wireguard/releases/tag/0.1.17
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 03 Nov 2022 00:30:05 +0800
