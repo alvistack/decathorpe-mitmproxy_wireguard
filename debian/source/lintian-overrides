@@ -1,0 +1,5 @@
+python-mitmproxy-wireguard source: file-without-copyright-information
+python-mitmproxy-wireguard source: no-debian-changes
+python-mitmproxy-wireguard source: source-contains-prebuilt-windows-binary
+python-mitmproxy-wireguard source: source-is-missing
+python-mitmproxy-wireguard source: source-package-encodes-python-version
