@@ -1,0 +1,4 @@
+python3-mitmproxy-wireguard: copyright-without-copyright-notice
+python3-mitmproxy-wireguard: initial-upload-closes-no-bugs
+python3-mitmproxy-wireguard: no-manual-page
+python3-mitmproxy-wireguard: zero-byte-file-in-doc-directory
